@@ -1,0 +1,73 @@
+country,iso,Year,yearend,region,subregion,Number of Abortions,abortionrate,perc_p_ending_in_a,spontaneous,datatype,datasource,complete,classification,modelused,marriedonly,notes
+United States of America,840,1990,1990,Europe and Northern America,North America,1429247,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,
+United States of America,840,1990,1990,Europe and Northern America,North America,1609000,,,No,Official Statistics,UNSD,Complete,,,,
+United States of America,840,1990,1990,Europe and Northern America,North America,1608620,,,No,Study,Jones et al 2008,,,Yes,All women,
+United States of America,840,1991,1991,Europe and Northern America,North America,1388937,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,
+United States of America,840,1991,1991,Europe and Northern America,North America,1557000,,,No,Official Statistics,UNSD,Complete,,,,
+United States of America,840,1991,1991,Europe and Northern America,North America,1556510,,,No,Study,Jones et al 2008,,,Yes,All women,
+United States of America,840,1992,1992,Europe and Northern America,North America,1529000,,,No,Official Statistics,UNSD,Complete,,,,
+United States of America,840,1992,1992,Europe and Northern America,North America,1528930,,,No,Study,Jones et al 2008,,,Yes,All women,
+United States of America,840,1992,1992,Europe and Northern America,North America,1359146,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,
+United States of America,840,1993,1993,Europe and Northern America,North America,1495000,,,No,Official Statistics,UNSD,Complete,,,,
+United States of America,840,1993,1993,Europe and Northern America,North America,1330414,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,
+United States of America,840,1993,1993,Europe and Northern America,North America,1495000,,,No,Study,Jones et al 2008,,,Yes,All women,
+United States of America,840,1994,1994,Europe and Northern America,North America,1267415,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,
+United States of America,840,1994,1994,Europe and Northern America,North America,1423000,,,No,Official Statistics,UNSD,Complete,,,,
+United States of America,840,1994,1994,Europe and Northern America,North America,1423000,,,No,Study,Jones et al 2008,,,Yes,All women,
+United States of America,840,1995,1995,Europe and Northern America,North America,1359000,,,No,Official Statistics,UNSD,Complete,,,,
+United States of America,840,1995,1995,Europe and Northern America,North America,1395400,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,1995,1995,Europe and Northern America,North America,1210883,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,
+United States of America,840,1996,1996,Europe and Northern America,North America,1360160,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,1996,1996,Europe and Northern America,North America,1225937,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,
+United States of America,840,1996,1996,Europe and Northern America,North America,1360000,,,No,Official Statistics,UNSD,Complete,,,,
+United States of America,840,1997,1997,Europe and Northern America,North America,1335000,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,1997,1997,Europe and Northern America,North America,910300,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,
+United States of America,840,1997,1997,Europe and Northern America,North America,910300,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,1998,1998,Europe and Northern America,North America,1319000,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,1998,1998,Europe and Northern America,North America,884273,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,1998,1998,Europe and Northern America,North America,884273,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, New Hampshire, Oklahoma, and Alaska"
+United States of America,840,1999,1999,Europe and Northern America,North America,861789,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, New Hampshire, Oklahoma, and Alaska"
+United States of America,840,1999,1999,Europe and Northern America,North America,861789,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,1999,1999,Europe and Northern America,North America,1314790,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2000,2000,Europe and Northern America,North America,857475,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, New Hampshire, and Alaska"
+United States of America,840,2000,2000,Europe and Northern America,North America,857475,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,2000,2000,Europe and Northern America,North America,1312990,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2001,2001,Europe and Northern America,North America,853485,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, New Hampshire, and Alaska"
+United States of America,840,2001,2001,Europe and Northern America,North America,853485,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,2001,2001,Europe and Northern America,North America,1291000,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2002,2002,Europe and Northern America,North America,854122,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,2002,2002,Europe and Northern America,North America,854122,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, New Hampshire, and Alaska"
+United States of America,840,2002,2002,Europe and Northern America,North America,1269000,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2003,2003,Europe and Northern America,North America,1250000,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2003,2003,Europe and Northern America,North America,848163,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, New Hampshire, and West Virginia"
+United States of America,840,2003,2003,Europe and Northern America,North America,848163,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,2004,2004,Europe and Northern America,North America,1222100,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2004,2004,Europe and Northern America,North America,839226,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,2004,2004,Europe and Northern America,North America,839226,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, New Hampshire, and West Virginia"
+United States of America,840,2005,2005,Europe and Northern America,North America,820151,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, New Hampshire, and Louisiana"
+United States of America,840,2005,2005,Europe and Northern America,North America,820151,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,2005,2005,Europe and Northern America,North America,1206200,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2006,2006,Europe and Northern America,North America,1242200,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2006,2006,Europe and Northern America,North America,852385,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,Excludes California and New Hampshire
+United States of America,840,2006,2006,Europe and Northern America,North America,852385,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,2007,2007,Europe and Northern America,North America,827609,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,2007,2007,Europe and Northern America,North America,827609,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, Maryland, and New Hampshire"
+United States of America,840,2007,2007,Europe and Northern America,North America,1209600,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2008,2008,Europe and Northern America,North America,1212400,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2008,2008,Europe and Northern America,North America,825564,,,No,Official Statistics,UNSD,Incomplete,Acknowledged incomplete,,,
+United States of America,840,2008,2008,Europe and Northern America,North America,824441,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, Maryland, and New Hampshire"
+United States of America,840,2009,2009,Europe and Northern America,North America,1151600,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2009,2009,Europe and Northern America,North America,783551,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, Maryland, and New Hampshire"
+United States of America,840,2010,2010,Europe and Northern America,North America,764808,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, Maryland, and New Hampshire"
+United States of America,840,2010,2010,Europe and Northern America,North America,1102670,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2011,2011,Europe and Northern America,North America,729499,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, Maryland, and New Hampshire"
+United States of America,840,2011,2011,Europe and Northern America,North America,1058490,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2012,2012,Europe and Northern America,North America,698564,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, Maryland, and New Hampshire"
+United States of America,840,2012,2012,Europe and Northern America,North America,1011000,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2013,2013,Europe and Northern America,North America,663818,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, Maryland, and New Hampshire"
+United States of America,840,2013,2013,Europe and Northern America,North America,958700,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2014,2014,Europe and Northern America,North America,926200,,,No,Study,Jones and Jerman 2017,,,Yes,All women,
+United States of America,840,2014,2014,Europe and Northern America,North America,652302,,,No,Official Statistics,U.S. Department of Health and Human Services,Incomplete,Acknowledged incomplete,Yes,,"Excludes California, Maryland, and New Hampshire"
+United States of America,840,2015,2015,Europe and Northern America,North America,899500,,,No,Study,"Jones, Witwer, and Jerman 2019",,,Yes,All women,
+United States of America,840,2016,2016,Europe and Northern America,North America,874080,,,No,Study,"Jones, Witwer, and Jerman 2019",,,Yes,All women,
+United States of America,840,2017,2017,Europe and Northern America,North America,862300,,,No,Study,"Jones, Witwer, and Jerman 2019",,,Yes,All women,
